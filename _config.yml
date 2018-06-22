@@ -2,7 +2,6 @@ title: Jekyll tags and cats
 description: Jekyll example about how to generate categories and tags pages.
 twitter_username: ilanolkies
 github_username:  ilanolkies
-theme: minima
 
 exclude:
   - Gemfile
